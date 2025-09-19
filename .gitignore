@@ -22,3 +22,4 @@ coverage/
 
 # Windows
 Thumbs.db
+*.history/
